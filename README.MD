@@ -1,4 +1,4 @@
-# Hukay: Farming Simulator
+# Hukay: Java Farming Simulator
 
 ### Developers: <p>
 #### Baccay, Dominic Luis M. <p>
